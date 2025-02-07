@@ -25,16 +25,10 @@ class Student {
         this.name = name;
     }
 
-    /**
-     * @return
-     */
     public int getId() {
         return id;
     }
 
-    /**
-     * @return
-     */
     public String getName() {
         return name;
     }
